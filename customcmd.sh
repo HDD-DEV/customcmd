@@ -19,4 +19,6 @@ if [[ $reply == "y" ]]; then
         echo "Try and run it and see if it works !"
         sleep 1
         echo "bye"
+else
+        exit
 fi
